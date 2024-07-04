@@ -21,11 +21,13 @@ Included "art" from left to right: kitty, oneup, oneup2, hackerschool, octocat, 
 1. Create a new github repo to store your handiwork.
 2. Run `gitfiti.py` and follow the prompts for username, art selection, offset, and repo name.
 3. Run the generated `gitfiti.sh` or `gitfiti.ps1` from your home directory (or any non-git tracked dir) and watch it go to work.
+
    Fix Power Shell Error
+
    ```powershell
    Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
    ```
-4. Wait... Seriously, you'll probably need to wait a day or two for the gitfiti to show in your commit graph.
+5. Wait... Seriously, you'll probably need to wait a day or two for the gitfiti to show in your commit graph.
 
 ### User Templates
 
